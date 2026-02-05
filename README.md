@@ -11,7 +11,7 @@ A modern, responsive web application designed to explore and discover urban fash
 </div>
 
 
-## 📁 Elements of Project
+## 📋 Elements of Project
 
 
 | Column 1                 | Column 2           | Column 3         |
