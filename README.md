@@ -1,12 +1,13 @@
 # 🏙️ CITY STYLE
 
+A modern, responsive web application for exploring and discovering urban fashion trends across different cities worldwide.
+
 <div align="center">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/BDutta18/CITY-STYLE?style=for-the-badge)
 
 
 </div>
-A modern, responsive web application for exploring and discovering urban fashion trends across different cities worldwide.
 
 ## 📋 Table of Contents
 
