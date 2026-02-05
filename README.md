@@ -8,7 +8,7 @@ A modern, responsive web application designed to explore and discover urban fash
 ![GitHub repo size](https://img.shields.io/github/repo-size/BDutta18/CITY-STYLE?style=for-the-badge)
 </div>
 
---
+
 
 ## 📋 Elements of Project
 
