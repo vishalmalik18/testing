@@ -12,6 +12,8 @@ A modern, responsive web application designed to explore and discover urban fash
 
 ## 📋 Elements of Project
 
+this table created into 3 phase undestand project in better way
+
 
 | I                |       II     | III        |
 |---------------------------|------------------|----------------|
