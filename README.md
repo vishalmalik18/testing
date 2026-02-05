@@ -1,6 +1,5 @@
-| | | |
-|---|---|---|
-| Overview | Technologies Used | Project Structure |
-| Getting Started | Demo | Deployment |
-| FAQ | Support & Contact | Contributing |
-| License | Author | |
+| [📖 Overview](#-overview) | [🛠️ Technologies Used](#️-technologies-used) | [📁 Project Structure](#-project-structure) |
+|---------------------------|--------------------------------------------|--------------------------------------------|
+| [🚀 Getting Started](#-getting-started) | [🏙️ Demo](#-demo) | [🌐 Deployment](#-deployment) |
+| [❓ FAQ](#-faq) | [🆘 Support & Contact](#-support--contact) | [🤝 Contributing](#-contributing) |
+| [📄 License](#-license) | [👨‍💻 Author](#-author) | |
