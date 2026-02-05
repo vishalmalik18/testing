@@ -2,7 +2,7 @@
 
 A modern, responsive web application designed to explore and discover urban fashion trends from cities around the world. It brings together city-inspired styles, curated collections, and a smooth user experience across all devices. Perfect for staying updated with global street fashion.
 
-## current size
+## Current size
 <div align="left">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/BDutta18/CITY-STYLE?style=for-the-badge)
