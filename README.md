@@ -10,6 +10,7 @@ A modern, responsive web application designed to explore and discover urban fash
 
 </div>
 
+---
 ## 📋 Elements of Project
 
 
