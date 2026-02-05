@@ -1,6 +1,4 @@
-| [📖 Overview](#-overview) | | [📁 Project Structure](#-project-structure) |
-|---------------------------|--------------------------------------------|--------------------------------------------|
-| [🚀 Getting Started](#-getting-started) | [🏙️ Demo](#-demo) | [🌐 Deployment](#-deployment) |
-| [❓ FAQ](#-faq) | [🆘 Support & Contact](#-support--contact) | [🤝 Contributing](#-contributing) |
-| [📄 License](#-license) | [👨‍💻 Author](#-author) | |
-| [🛠️ Technologies Used](#️-technologies-used) |   | |
+| [📖 Overview](#-overview) | [🏙️ Demo](#-demo) | [🌐 Deployment](#-deployment) |
+| [🛠️ Technologies Used](#️-technologies-used) | [❓ FAQ](#-faq) | [🤝 Contributing](#-contributing) |
+| [📁 Project Structure](#-project-structure) | [🆘 Support & Contact](#-support--contact) | [📄 License](#-license) |
+| [🚀 Getting Started](#-getting-started) | [👨‍💻 Author](#-author) | |
