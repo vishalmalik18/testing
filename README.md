@@ -1,6 +1,6 @@
 | Column 1                 | Column 2           | Column 3         |
 |---------------------------|------------------|----------------|
-| [📖 Overview](#-overview) | [🏙️ Demo](#-demo) | [🆘 Support & Contact](#-support--contact) |
+| [📖 Overview](#-overview) | [🏙️ Demo](#-demo) | [👨‍💻 Author](#-author) |
 | [🛠️ Technologies Used](#️-technologies-used) | [🌐 Deployment](#-deployment) | [🤝 Contributing](#-contributing) |
 | [📁 Project Structure](#-project-structure) | [❓ FAQ](#-faq) | [📄 License](#-license) |
-| [🚀 Getting Started](#-getting-started) | [👨‍💻 Author](#-author) | |
+| [🚀 Getting Started](#-getting-started) | [🆘 Support & Contact](#-support--contact) | |
