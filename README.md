@@ -13,7 +13,7 @@ A modern, responsive web application designed to explore and discover urban fash
 ## 📋 Elements of Project
 
 
-| Column 1                 | Column 2           | Column 3         |
+| I                | II           | III        |
 |---------------------------|------------------|----------------|
 | [📖 Overview](#-overview) | [🏙️ Demo](#-demo) | [📄 License](#-license) |
 | [🛠️ Technologies Used](#️-technologies-used) | [🌐 Deployment](#-deployment) | [🤝 Contributing](#-contributing) |
