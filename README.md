@@ -3,10 +3,7 @@
 <div align="center">
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/BDutta18/CITY-STYLE?style=for-the-badge)
-![GitHub contributors](https://img.shields.io/github/contributors/BDutta18/CITY-STYLE?style=for-the-badge)
-![GitHub stars](https://img.shields.io/github/stars/BDutta18/CITY-STYLE?style=for-the-badge)
-![GitHub forks](https://img.shields.io/github/forks/BDutta18/CITY-STYLE?style=for-the-badge)
-![GitHub issues](https://img.shields.io/github/issues/BDutta18/CITY-STYLE?style=for-the-badge)
+
 
 </div>
 
