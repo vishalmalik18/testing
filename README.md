@@ -1,4 +1,4 @@
-| Section         | Section           | Section           |
+| Section         |                   |                   |
 | --------------- | ----------------- | ----------------- |
 | Overview        | Technologies Used | Project Structure |
 | Getting Started | Demo              | Deployment        |
