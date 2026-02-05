@@ -1,5 +1,6 @@
-Section | Section | Section
-Overview / Technologies | Project Structure | Getting Started
-Demo | Deployment | FAQ
-Support & Contact | Contributing | License
-Author | |
+| Section         | Section           | Section           |
+| --------------- | ----------------- | ----------------- |
+| Overview        | Technologies Used | Project Structure |
+| Getting Started | Demo              | Deployment        |
+| FAQ             | Support & Contact | Contributing      |
+| License         | Author            |                   |
