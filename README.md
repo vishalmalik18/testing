@@ -4,7 +4,7 @@ A modern, responsive web application for exploring and discovering urban fashion
 
 <div align="center">
 
-![GitHub repo size](https://img.shields.io/github/repo-size/BDutta18/CITY-STYLE?style=for-the-badge)
+<p>cuurent size</p>![GitHub repo size](https://img.shields.io/github/repo-size/BDutta18/CITY-STYLE?style=for-the-badge)
 
 
 </div>
