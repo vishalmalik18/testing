@@ -6,8 +6,7 @@
 
 
 </div>
-
-> 🌟 A modern, responsive web application for exploring and discovering urban fashion trends across different cities worldwide.
+A modern, responsive web application for exploring and discovering urban fashion trends across different cities worldwide.
 
 ## 📋 Table of Contents
 
